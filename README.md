@@ -48,5 +48,5 @@ SmartScreen Hakkında: Uygulama dijital imzalı olmadığı için Windows uyarı
 Arka planda gizli işlem yapmaz.
 Registry değişikliği yapmaz ve sistem dosyalarına müdahale etmez.
 
-Sorumluluk Reddi
+### Sorumluluk Reddi
 Bu yazılımın kullanımı tamamen kullanıcı sorumluluğundadır. Yanlış pozitif veya negatif durumlardan doğabilecek sonuçlardan geliştirici sorumlu tutulamaz. Detaylar için LICENSE dosyasına bakınız.
